@@ -1,0 +1,1 @@
+docker build . --tag tuana9a/simple-http-server-with-uuid
